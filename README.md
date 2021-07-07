@@ -1,4 +1,5 @@
 # ghost
+Randomly change the opacity of selected layers
 
 ## Installation
 

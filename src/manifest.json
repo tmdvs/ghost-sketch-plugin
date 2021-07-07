@@ -3,15 +3,15 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "ghost.my-command-identifier",
-      "script": "./my-command.js"
+      "name": "Randomize opacity of selected layers",
+      "identifier": "ghost.randomize-opacity",
+      "script": "./randomize-opacity.js"
     }
   ],
   "menu": {
-    "title": "ghost",
+    "title": "Ghost",
     "items": [
-      "ghost.my-command-identifier"
+      "ghost.randomize-opacity"
     ]
   }
 }
